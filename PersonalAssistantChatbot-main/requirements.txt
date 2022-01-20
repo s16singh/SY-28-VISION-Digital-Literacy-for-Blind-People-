@@ -1,0 +1,6 @@
+pyautogui
+pywhatkit
+pyjokes
+wikipedia
+pyttsx3
+wolframalpha
