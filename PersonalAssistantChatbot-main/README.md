@@ -1,4 +1,4 @@
-# PersonalAssistant
+# VISION Voice Assistant
 It is an Personal Assistant, capable to perform many tasks with some unique features. 
 
 
